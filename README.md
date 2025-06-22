@@ -17,7 +17,7 @@ Interaktivna web aplikacija sa frontend-om u React-u i backend-om u FastAPI. Omo
 
 ### 1. Backend
 
-1. Instaliraj Python zavisnosti:
+1. Instaliraj Python requirements-a:
    ```bash
    pip install -r requirements.txt
    ```
@@ -36,4 +36,4 @@ Interaktivna web aplikacija sa frontend-om u React-u i backend-om u FastAPI. Omo
 ---
 ### NAPOMENA
 
-Backend mora biti pokrenut pre fronenda.
+Backend mora biti pokrenut pre frontenda.
